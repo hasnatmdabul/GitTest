@@ -1,5 +1,2 @@
-TextAD
-BranchBD
-BranchCD
-ConflictX
-ConflictEFG
+TextA
+BranchB
