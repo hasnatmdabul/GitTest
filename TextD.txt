@@ -1,0 +1,2 @@
+BranchB
+update in GitHub
